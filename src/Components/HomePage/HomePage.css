@@ -1,0 +1,15 @@
+#plusB{
+    border-radius: 100px;
+    background-color: blueviolet;
+    font-size: 40px;
+    border: 1px black solid;
+   
+    width: 100px;
+    height: 60px;
+    position:absolute; 
+    margin-left:-50px;
+    left:50%;
+    width:100px;
+    bottom:200px;
+
+}

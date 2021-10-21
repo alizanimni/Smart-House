@@ -1,0 +1,22 @@
+#RoomDiv{
+    text-align: left;
+    margin-left: 10px;
+}
+#AddProductB{
+    font-size: 20px;
+    border: 1px black solid;
+    background-color: cadetblue;
+    width: 100px;
+    height: 60px;
+    position:absolute; 
+    margin-left:-50px;
+    left:50%;
+    width:100px;
+    bottom:200px;
+}
+#AddProductB:hover{
+    background-color: rgb(76, 132, 134);
+}
+#AddProductB:active{
+    background-color: rgb(63, 112, 114);
+}
